@@ -5,7 +5,7 @@ Everybody sane hates flatpack, snap and similar packages, so, this repo automati
 
 ```bash
 wget https://github.com/nelebadnjak/telegram-desktop-deb-package/releases/download/4.8.3/telegram_desktop_4.8.3_amd64.deb
-sudo dpkg -i https://github.com/nelebadnjak/telegram-desktop-deb-package/releases/download/4.8.3/telegram_desktop_4.8.3_amd64.deb
+sudo dpkg -i telegram_desktop_4.8.3_amd64.deb
 ./opt/Telegram/Telegram
 
 ```
